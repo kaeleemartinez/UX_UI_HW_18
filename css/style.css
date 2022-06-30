@@ -74,6 +74,9 @@ p{
     width: 33%;
     padding: 25px;
   }
+  .uxskillspic{
+    width: 100%;
+  }
   
   /* My Work Section */
   .myWork {
@@ -90,6 +93,9 @@ p{
     "img2 content2"
     "img3 content3"
     ;
+  }
+  .myworkpic{
+    width: 100%;
   }
   .workGrid img {
     width: 50%;
